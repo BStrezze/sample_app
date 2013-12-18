@@ -1,0 +1,4 @@
+	- To update asset pipeline, for Heroku
+	RAILS_ENV=production bundle exec rake assets:precompile
+	
+	
